@@ -1,6 +1,6 @@
 **QuickStay** (Frontend)
-This repository contains the QuickStay frontend built with React and Vite.
 
+This repository contains the QuickStay frontend built with React and Vite.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, this project uses Vite with React and supports common plugins for Fast Refresh.
